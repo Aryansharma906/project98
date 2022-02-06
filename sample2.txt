@@ -1,0 +1,6 @@
+
+A vector quantity indicating the ability of a magnetic field to exert a force on moving electric charges.
+It is equal to the magnetic flux density divided by the magnetic permeability of the space where the field exists. 
+It is measured in amperes per meter.
+
+
